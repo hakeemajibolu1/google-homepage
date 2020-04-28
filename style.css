@@ -1,0 +1,70 @@
+/* TOP NAVIGATION */
+.top {
+    background-color: #ffffff;
+    margin-bottom: 10px;
+  }
+
+  .topnav {
+      padding-top: 8px;
+  }
+
+  .sign-in-btn {
+      background-color: #4285f4;
+      border: 1px solid #4285f4;
+      color: #ffffff;
+      padding: 3px 12px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+  }
+
+  .top-links {
+      display: block;
+      float: right;
+      padding-right: 10px;
+  }
+
+  .top-link-about {
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    color: #434343;
+  }
+
+  .top-link-store {
+    display: inline-block;
+    padding-right: 10px;
+    text-decoration: none;
+    color: #434343;
+  }
+
+  .top-link-gmail {
+      padding-top: 5px;
+      text-decoration: none;
+      color: #434343;
+  }
+
+  .top-link-images {
+    padding-top: 5px;
+    text-decoration: none;
+    color: #434343;
+  }
+
+  .top-link-gmail:hover {
+      text-decoration: underline;
+  }
+
+  .top-link-images:hover {
+      text-decoration: underline;
+  }
+
+  .top-link-about:hover {
+    text-decoration: underline;
+  }
+
+ .top-link-store:hover {
+    text-decoration: underline;
+ }  
+
